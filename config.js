@@ -119,15 +119,15 @@ global.desc = ''; //agrega una descripción corta
 global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = ''; //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝙀́𝙇𝙄𝙏𝙀 𝘽𝙊𝙏 𝙂𝙇𝙊𝘽𝘼𝙇";
+global.packname = "𝗣𝗿𝗼𝘆𝗲𝗰𝘁𝗼𝗫";
 global.author = "";
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.vs = "𝙀́𝙇𝙄𝙏𝙀 𝘽𝙊𝙏 𝙂𝙇𝙊𝘽𝘼𝙇";
+global.vs = "𝗣𝗿𝗼𝘆𝗲𝗰𝘁𝗼𝗫";
 global.vsJB = "2.0";
 
-global.gt = "𝙀́𝙇𝙄𝙏𝙀 𝘽𝙊𝙏 𝙂𝙇𝙊𝘽𝘼𝙇";
+global.gt = "𝗣𝗿𝗼𝘆𝗲𝗰𝘁𝗼𝗫";
 global.yt = "";
 global.yt2 = "";
 global.ig = "";
@@ -182,8 +182,8 @@ global.exito = eg;
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝙀́𝙇𝙄𝙏𝙀 𝘽𝙊𝙏 𝙂𝙇𝙊𝘽𝘼𝙇 ";
-global.igfg = "𝙀́𝙇𝙄𝙏𝙀 𝘽𝙊𝙏 𝙂𝙇𝙊𝘽𝘼𝙇 ";
+global.wm = "𝗣𝗿𝗼𝘆𝗲𝗰𝘁𝗼𝗫 ";
+global.igfg = "𝗣𝗿𝗼𝘆𝗲𝗰𝘁𝗼𝗫 ";
 global.wait = "*🚀 P R O C E S A N D O*";
 global.waitt = "*🚀 P R O C E S A N D O*";
 global.waittt = "*🚀 P R O C E S A N D O*";
