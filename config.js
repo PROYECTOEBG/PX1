@@ -13,7 +13,7 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 global.owner = [
 ["593993370003", '𝙀́𝙇𝙄𝙏𝙀 𝘽𝙊𝙏 𝙂𝙇𝙊𝘽𝘼𝙇', true], //Elitebot
 ["593980639478"], 
-[""], 
+["573235440996"], 
 [""], 
 [""],
 [""],
